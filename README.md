@@ -1,16 +1,20 @@
-### Hi there 👋
+![asf](https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif)
+## Hey all :wave:
+This is Harshavardhan, a full stack web developer specilized in Nodejs. I am also a web application security tester and a CTF player. A python developer as well.
 
-<!--
-**harshareddy794/harshareddy794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🌱 I’m currently learning PHP
+- :two_men_holding_hands: I’m looking to collaborate on Open source projects, Web application pentesting
+- :hearts: Python
+- 💬 Ask me about Web developemnt, Cyber security, Python
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshareddy794/)](https://www.linkedin.com/in/harshareddy794/)
 
-Here are some ideas to get you started:
+## Skills :computer:
+``` Front End - HTML, CSS, Bootstrap```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` Back End - Nodejs, Expressjs, PHP ```
+
+``` Database - Mongodb, mySQL```
+
+
+
