@@ -3,7 +3,7 @@
 This is Harshavardhan, a full stack web developer specilized in Nodejs. I am also a web application security tester and a CTF player. A python developer as well.
 
 ## About me
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Django
 - :two_men_holding_hands: I’m looking to collaborate on Open source projects, Web application pentesting
 - :hearts: Python
 - 💬 Ask me about Web developement, Cyber security, Python
