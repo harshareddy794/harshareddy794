@@ -1,4 +1,7 @@
-![asf](https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif)
+<a href="https://github.com/harshareddy794">
+ <img align="center" src="https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" alt="Harsha's github "/>
+</a>
+
 ## Hey all :wave:
 This is Harshavardhan, a full stack web developer specilized in Nodejs. I am also a web application security tester and a CTF player. A python developer as well.
 
