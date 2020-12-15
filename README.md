@@ -22,10 +22,6 @@ This is Harshavardhan, a full stack web developer specilized in Nodejs. I am als
 ![VisitorCount](https://profile-counter.glitch.me/harshareddy794/count.svg)
 
 <a href="https://github.com/harshareddy794">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshareddy794&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/harshareddy794">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshareddy794&show_icons=true&theme=dark&line_height=27" alt="Harsha's github stats"/>
 </a>
 
